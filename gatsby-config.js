@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Free Help Center`,
-    author: `Dominik Ferber`,
+    title: `Upskill Me Help Center`,
+    author: `UpSkill Me Team`,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
-    description: `Get a free self-hosted Help Center like this one`,
+    description: `Help with using UpSkill Me`,
     siteUrl: `https://help.dferber.de/`,
     language: "en",
     texts: {
@@ -82,11 +82,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Help Center`,
+        name: `UpSkill Me Help Center`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#1F6EE2`,
         display: `minimal-ui`,
         icon: `assets/favicon.png`,
       },
