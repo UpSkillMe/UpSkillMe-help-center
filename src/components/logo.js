@@ -4,10 +4,10 @@ import { jsx } from "theme-ui"
 const Logo = props => (
   <svg
     sx={{
-      height: "17",
-      width: "25",
+      height: props.size,
+      width: props.size,
     }}
-    viewBox="0 0 34 49"
+    viewBox="0 0 10 20"
     version="1.1"
     xmlns="http://www.w3.org/2000/svg"
     fillRule="evenodd"
