@@ -1,7 +1,7 @@
 ---
 title: Adding your own logo
 date: 2020-01-02
-author: lucy
+author: dferber
 modifiedDate: null
 description: "Use your project's logo"
 ---

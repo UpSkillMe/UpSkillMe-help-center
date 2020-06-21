@@ -1,7 +1,7 @@
 ---
 title: Icons
 date: 2020-01-02
-author: lucy
+author: dferber
 modifiedDate: null
 description: "See which icons are available"
 ---

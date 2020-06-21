@@ -1,7 +1,7 @@
 ---
 title: Set up your own help center
 date: 2020-01-02
-author: lucy
+author: dferber
 modifiedDate: null
 description: "Step-by-step tutorial for how to host your own Help Center."
 ---

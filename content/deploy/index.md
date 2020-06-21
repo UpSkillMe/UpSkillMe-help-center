@@ -1,7 +1,7 @@
 ---
 title: Deploying your own help center
 date: 2020-01-02
-author: lucy
+author: dferber
 modifiedDate: null
 description: "Shows how to publish your help center to the internet for free."
 ---

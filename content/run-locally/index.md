@@ -1,7 +1,7 @@
 ---
 title: Run the help center on your machine
 date: 2020-01-02
-author: lucy
+author: dferber
 modifiedDate: null
 description: "Learn how to run the help center locally in order to edit content."
 ---

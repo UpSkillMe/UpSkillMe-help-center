@@ -1,7 +1,7 @@
 ---
 title: Collections and their sections
 date: 2020-01-03
-author: lucy
+author: dferber
 modifiedDate: null
 description: "Learn how to edit your Help Center's content."
 ---

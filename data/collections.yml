@@ -25,7 +25,7 @@
 - id: introduction
   title: Introduction
   description: Brief overview of UpSkill Me
-  icon: "FaRegPaperPlane"
+  icon: "FaRegHandPeace"
   articles:
     - file: ../content/welcome/index.md
 
@@ -45,7 +45,7 @@
 
 - id: usage
   title: Usage
-  description: How to articles from logging skills to finding opportunities
+  description: How to artiles from logging skills to finding opportunities
   icon: "FaRegListAlt"
   sections:
     - id: setup

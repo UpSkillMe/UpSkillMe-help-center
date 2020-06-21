@@ -1,7 +1,7 @@
 ---
 title: List of features
 date: 2020-01-03
-author: lucy
+author: dferber
 modifiedDate: null
 description: "Searchable, customizable, responsive, fast, free and usable in any language."
 ---
