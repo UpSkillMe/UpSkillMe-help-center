@@ -7,7 +7,7 @@ const Logo = props => (
       height: "70",
       width: "100",
     }}
-    viewBox="0 0 244 221"
+    viewBox="0 0 34 49"
     version="1.1"
     xmlns="http://www.w3.org/2000/svg"
     fillRule="evenodd"
