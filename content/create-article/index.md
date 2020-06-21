@@ -1,7 +1,7 @@
 ---
 title: Writing a new article
 date: 2020-01-03
-author: dferber
+author: lucy
 modifiedDate: null
 description: "Walkthrough of the creation of a new article."
 ---

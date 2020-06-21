@@ -1,7 +1,7 @@
 ---
 title: Alternatives
 date: 2020-01-02
-author: dferber
+author: lucy
 modifiedDate: null
 description: "An overview of alternatives"
 ---

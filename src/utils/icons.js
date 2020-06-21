@@ -5,7 +5,7 @@
 // https://react-icons.netlify.com/#/
 export {
   // people --------------------------------------------------------------------
-  FaRegHandPeace,
+  //FaRegHandPeace,
   FaPeopleCarry,
   // FaPersonBooth,
   // FaUserAltSlash,
@@ -112,7 +112,7 @@ export {
   // other ---------------------------------------------------------------------
   // FaPiggyBank,
   // FaRegLightbulb,
-  // FaRegPaperPlane,
+  FaRegPaperPlane,
   // FaRegSun,
   // FaMicrophoneAlt,
   FaRegListAlt,

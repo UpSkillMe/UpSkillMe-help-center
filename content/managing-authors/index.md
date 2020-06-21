@@ -1,7 +1,7 @@
 ---
 title: Authors
 date: 2020-01-03
-author: dferber
+author: lucy
 modifiedDate: null
 description: "Add yourself and your team as authors."
 ---

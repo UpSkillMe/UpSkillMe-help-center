@@ -1,7 +1,7 @@
 ---
 title: Publication and modification dates
 date: 2020-01-03
-author: dferber
+author: lucy
 description: "Attach dates to your articles"
 ---
 
