@@ -1,10 +1,6 @@
-# gatsby-starter-help-center
+# UpSkill-Me-help-center
 
-Kick off your project with this help center boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-![preview](./preview.png)
-
-_This README is a brief overview only. You can find the **full documentation** at [help.dferber.de](https://help.dferber.de/). That documentation site was built with this help center. Visit it to see what the help center looks like in production._
+_This README is a brief overview only. You can find the **full documentation** at [upskillme.io](https://upskillme.io/)._
 
 ## 🚀 Quick start
 
