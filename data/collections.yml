@@ -25,7 +25,7 @@
 - id: introduction
   title: Introduction
   description: Brief overview of UpSkill Me
-  icon: "FaRegHandPeace"
+  icon: "FaRegPaperPlane"
   articles:
     - file: ../content/welcome/index.md
 

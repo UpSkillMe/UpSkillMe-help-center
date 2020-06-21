@@ -112,7 +112,7 @@ export {
   // other ---------------------------------------------------------------------
   // FaPiggyBank,
   // FaRegLightbulb,
-  // FaRegPaperPlane,
+  FaRegPaperPlane,
   // FaRegSun,
   // FaMicrophoneAlt,
   FaRegListAlt,
