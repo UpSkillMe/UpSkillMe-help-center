@@ -24,14 +24,14 @@
 
 - id: introduction
   title: Introduction
-  description: Brief overview of the free help center
+  description: Brief overview of UpSkill Me
   icon: "FaRegHandPeace"
   articles:
     - file: ../content/welcome/index.md
 
 - id: features-and-nonfeatures
-  title: Features and Non-Features
-  description: Everything the Free Help Center offers out of the box
+  title: Features
+  description: Everything UpSkill Me Offers
   icon: "FaBox"
   sections:
     - id: features
@@ -45,7 +45,7 @@
 
 - id: usage
   title: Usage
-  description: Setup and usage guides for the free help center
+  description: How to artiles from logging skills to finding opportunities
   icon: "FaRegListAlt"
   sections:
     - id: setup
@@ -74,10 +74,3 @@
       title: Deploying
       articles:
         - file: ../content/deploy/index.md
-
-- id: giving-back
-  title: Giving back
-  description: 'Options in case you want to say "thank you"'
-  icon: "FaPeopleCarry"
-  articles:
-    - file: ../content/giving-back/index.md
