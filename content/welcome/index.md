@@ -6,7 +6,7 @@ modifiedDate: null
 description: "UpSkill Me is a platform to help young people grow and develop their skills."
 ---
 
-The goal of this project is to enable anyone to set up a free help center for their product. Help Centers are websites which contain documentation, ansers to frequent questions and tips for your product or service.
+The goal of Upskill Me is to help everyone gain new skills. This is our help center for using the platform which answers frequent questions and provides tips for our users.
 
 ![Help Center Preview](./preview.png)
 
@@ -18,8 +18,9 @@ To be successful today, students need more than just good grades. They need to b
 
 ## What is it exactly?
 
-I needed a help center for a project I'm working on, but I wasn't happy with the existing solutions. Most of them were paid SaaS-products, which offered way more features than I needed and had a hefty price tag. Instead, I set out to create a help center myself. I later converted it into a [Gatsby Starter](https://www.gatsbyjs.org/docs/starters/) called [`gatsby-starter-help-center`](https://www.github.com/dferber90/gatsby-starter-help-center) and open-sourced it.
+To keep up with our rapidly changing world, students need to build critical skills like problem-solving, teamwork and creativity.
 
+With Upskill Me, students can track their skill development, earning badges as they go. They can record any awards they’ve won, certificates achieved, or projects they’re proud of - both in and out of school. So when they’re applying for jobs and further education, they’ve got everything they need. It’s all in one place.
 
 ## What you might want to read next
 
