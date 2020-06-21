@@ -24,6 +24,6 @@ With Upskill Me, students can track their skill development, earning badges as t
 
 ## What you might want to read next
 
-- [Tutorial showing how to set up your own Help Center](/articles/setup)
+- [Tutorial showing how to set up your first skill log](/articles/setup)
 - [Features of this help center](/collections/features-and-nonfeatures)
-- [Comparison to paid SaaS projects](/articles/comparison-to-saas)
+- [Tutorial showing you how to find your first opportunity](/articles/comparison-to-saas)
