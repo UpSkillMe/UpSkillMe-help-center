@@ -1,7 +1,7 @@
 ---
 title: What is UpSkill Me?
 date: 2020-01-02
-author: dferber
+author: lucy
 modifiedDate: null
 description: "UpSkill Me is a platform to help you. You don't need to know how to code in order to set it up, and you can host it for free on any static site hosting service."
 ---

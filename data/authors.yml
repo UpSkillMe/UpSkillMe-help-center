@@ -7,3 +7,6 @@
 - id: bert
   name: Bert
   avatar: ./avatars/bert.jpg
+- id: lucy
+  name: Lucy
+  avatar: ./avatars/lucy.jpg
