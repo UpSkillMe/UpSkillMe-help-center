@@ -4,8 +4,8 @@ import { jsx } from "theme-ui"
 const Logo = props => (
   <svg
     sx={{
-      height: "70",
-      width: "100",
+      height: "17",
+      width: "25",
     }}
     viewBox="0 0 34 49"
     version="1.1"
