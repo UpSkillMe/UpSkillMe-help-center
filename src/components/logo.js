@@ -5,7 +5,7 @@ const Logo = props => (
   <svg
     sx={{
       height: props.size,
-      width: props.size,
+      width: 30,
     }}
     viewBox="0 0 244 221"
     version="1.1"
