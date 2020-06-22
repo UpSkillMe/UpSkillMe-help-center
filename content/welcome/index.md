@@ -10,7 +10,7 @@ The goal of Upskill Me is to help everyone gain new skills. This is our help cen
 
 ![Help Center Preview](./preview.png)
 
-## Developing Skills?
+## Who is UpSkill?
 
 Upskill Me partners with UK schools to help students aged 11 to 18 prepare for their next steps.
 
